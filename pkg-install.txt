@@ -1,0 +1,4 @@
+ discord.js@latest 
+ dotenv
+pretty-ms
+nodemon

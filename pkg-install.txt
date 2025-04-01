@@ -1,4 +1,5 @@
- discord.js@latest 
- dotenv
+discord.js@latest 
+dotenv
 pretty-ms
 nodemon
+ @devraelfreeze/discordjs-pagination

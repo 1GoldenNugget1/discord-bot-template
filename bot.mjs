@@ -11,7 +11,8 @@ const client = new DiscordJS.Client({
     intents: [
         GatewayIntentBits.Guilds,
         GatewayIntentBits.GuildMessages,
-        GatewayIntentBits.GuildMembers
+        GatewayIntentBits.GuildMembers,
+        GatewayIntentBits.MessageCintent
     ]
     
 });

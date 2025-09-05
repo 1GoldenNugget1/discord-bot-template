@@ -1,4 +1,4 @@
-discord.js@latest 
+discord.js@latest
 dotenv
 pretty-ms
 nodemon

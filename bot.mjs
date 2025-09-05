@@ -1,5 +1,5 @@
 //common  packages used 
-import { GatewayIntentBits, EmbedBuilder, Message, GatewayIntentBits } from "discord.js";
+import { GatewayIntentBits, EmbedBuilder, Message, } from "discord.js";
 import  {pagination, ButtonTypes, ButtonStyles} from '@devraelfreeze/discordjs-pagination';
 import DiscordJS from 'discord.js';
 import fetch from 'node-fetch';
@@ -17,7 +17,7 @@ const client = new DiscordJS.Client({
     
 });
 
-client.on('ready', () =>{
+client.on('clientReady', () =>{
     console.log('bot is up and running')
 });
 //prefix setup

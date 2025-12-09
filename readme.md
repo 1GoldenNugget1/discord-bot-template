@@ -35,12 +35,18 @@ default **%** to whatever character (or set of two chars) of your liking.
 
 ## Packages used in this template:
 
-[Discord.js](https://discord.js.org/)
-[devraelfreeze's pagination module](https://www.npmjs.com/package/@devraelfreeze/discordjs-pagination)
-[dotenv](https://www.npmjs.com/package/dotenv)
-[pretty-ms](https://www.npmjs.com/package/pretty-ms)
-[nodemon](https://www.npmjs.com/package/nodemon)
-[node-fetch](https://www.npmjs.com/package/node-fetch)
+[Discord.js](https://discord.js.org/)  
+
+[devraelfreeze's pagination module](https://www.npmjs.com/package/@devraelfreeze/discordjs-pagination)  
+
+[dotenv](https://www.npmjs.com/package/dotenv)  
+
+[pretty-ms](https://www.npmjs.com/package/pretty-ms)  
+
+[nodemon](https://www.npmjs.com/package/nodemon)  
+
+[node-fetch](https://www.npmjs.com/package/node-fetch)  
+
 
 <hr>
 
